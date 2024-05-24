@@ -42,18 +42,18 @@
 <br><br>
 
 ## 개발에 쓰인 주요 기능 및 기술 📖✅
-### 1. 절차적 맵 생성(Procedural Map Generation)
-### 2. 파이어베이스 인증(FirebaseAuth)
-### 3. 원격 프로시저 호출(Remote Procedure Calls)
-### 4. 드래그 앤 드롭(IDragHandler, IDropHandler)
-### 5. 충돌 체크(Physics.overlap)
-### 6. FSM(Finite-State Machine)
+1. 절차적 맵 생성(Procedural Map Generation)
+2. 파이어베이스 인증(FirebaseAuth)
+3. 원격 프로시저 호출(Remote Procedure Calls)
+4. 드래그 앤 드롭(IDragHandler, IDropHandler)
+5. 충돌 체크(Physics.overlap)
+6. FSM(Finite-State Machine)
 
 <br><br>
 
 ## 개발하면서 알게된 점이나 어려웠던 점 😥
-### 1. PhotonNetwork로 생성(Instantiate)된 오브젝트가 PhotonNetwork.Destroy 호출로인한 제거가 될때 기존에 존재했던 Parent가 같이 제거가 되는 것을 늦게 알았음.
-### 2. 인스펙터 창에 추가된 PhotonView가 달린 오브젝트의 소유권(ownership)에 따라 처리를 다르게 해줘야 함.
-### 3. 전체적으로 내가 짠 코드가 비효율적이고 혼란스럽다는 것을 많이 느낌. 왜 사람들이 Solid 원칙이나 디자인 패턴 등에 중시하며 코드를 작성하는지 알 것 같음..
+1. PhotonNetwork로 생성(Instantiate)된 오브젝트가 PhotonNetwork.Destroy 호출로인한 제거가 될때 기존에 존재했던 Parent가 같이 제거가 되는 것을 늦게 알았음.
+2. 인스펙터 창에 추가된 PhotonView가 달린 오브젝트의 소유권(ownership)에 따라 처리를 다르게 해줘야 함.
+3. 전체적으로 내가 짠 코드가 비효율적이고 혼란스럽다는 것을 많이 느낌. 왜 사람들이 Solid 원칙이나 디자인 패턴 등에 중시하며 코드를 작성하는지 알 것 같음..
 
 
